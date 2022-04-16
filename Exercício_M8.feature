@@ -2,8 +2,8 @@
 
 Funcionalidade: Configurar produto
 Como cliente da EBAC-SHOP
-Quero configurar meu produto de acordo com meu tamanho
-E gosto e escolher a quantidade
+Quero configurar meu produto de acordo com meu tamanho e gosto
+E escolher a quantidade
 Para depois inserir no meu carrinho
 
 Contexto: Dado que eu acesse o catalogo de compras da EBAC-SHOP
